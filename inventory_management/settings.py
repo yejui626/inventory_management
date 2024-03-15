@@ -58,7 +58,7 @@ ROOT_URLCONF = 'inventory_management.urls'
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
-    'https://master--lighthearted-raindrop-042335.netlify.app/',
+    'https://master--lighthearted-raindrop-042335.netlify.app',
 ]
 
 TEMPLATES = [
