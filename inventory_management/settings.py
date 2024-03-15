@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jof_g!788n5j$u7_ut_j=o16l(bhauo2xq+d0fo25_(66^801l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['yejui626.pythonanywhere.com']
 
 
 # Application definition
@@ -58,7 +58,7 @@ ROOT_URLCONF = 'inventory_management.urls'
 
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',
+    'https://master--lighthearted-raindrop-042335.netlify.app/',
 ]
 
 TEMPLATES = [
