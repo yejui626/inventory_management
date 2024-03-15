@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 django
 djangorestframework
 django-filter
-=======
-django
-djangorestframework
-django-filter
->>>>>>> ab57e76ed9a137ab488434635bd867b4e58a3186
 django-cors-headers
